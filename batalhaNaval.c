@@ -15,6 +15,8 @@ int main() {
     
     int tabuleiro[10][10] = {0}; 
 
+    printf("\n---- Seja bem-vindo ao Batalha Naval ----\n");
+
     // Declarando valores em 3 para representar navio posição: Horizontal
     for (int navio1 = 0; navio1 < 0 + 3; navio1++){
     tabuleiro[4][navio1] = 3; 
