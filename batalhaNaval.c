@@ -5,10 +5,7 @@
 
 int main() {
 
-    /* Nível Aventureiro - Expansão do Tabuleiro e Posicionamento Diagonal
-        Sugestão: Expanda o tabuleiro para uma matriz 10x10.
-        Sugestão: Posicione quatro navios no tabuleiro, incluindo dois na diagonal.
-        Sugestão: Exiba o tabuleiro completo no console, mostrando 0 para posições vazias e 3 para posições ocupadas.*/
+    /* Nível Aventureiro - Expansão do Tabuleiro e Posicionamento Diagonal*/
 
     //Declarando inicialização de Matriz para representar tabuleiro.
     //Valores em zero representa água.
